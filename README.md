@@ -1,9 +1,16 @@
 <h1 align="center">Hello 👋, I’m Le Loc Quoc Thinh (feel free to call me Thinh or use LLQT as a short form in text).</h1>
+
+
+
 <h3 align="center">An enthusiastic internship from Ho Chi Minh University of Technology—Viet Nam National University (Back Khoa University). I have a strong interest in IC design, PCB design, and IoT, embedded system.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lelocquocthinh&label=Profile%20views&color=0e75b6&style=flat" alt="lelocquocthinh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lelocquocthinh" alt="lelocquocthinh" /></a> </p>
+
+<img align="right" height="200" src="https://media1.giphy.com/media/jtXRDVzaCPXSynUz7h/giphy.gif?cid=ecf05e47nkbzwzyyxa0yyvkccmxo3mxv6haug09oppk1hili&rid=giphy.gif&ct=g"  />
+
+###
 
 - 🔭 I’m currently involved in **projects focused on IC design, IoT, and embedded systems.**
 
