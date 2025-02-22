@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">An enthusiastic internship from Ho Chi Minh University of Technology—Viet Nam National University (Bach Khoa University or HCMUT-VNU). I have a strong interest in IC design, PCB design, and IoT, embedded system.</h3>
+<h3 align="center">An enthusiastic intern from Ho Chi Minh University of Technology—Viet Nam National University (Bach Khoa University or HCMUT-VNU). I have a strong interest in IC design, PCB design, and IoT, embedded system.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lelocquocthinh&label=Profile%20views&color=0e75b6&style=flat" alt="lelocquocthinh" /> </p>
 
